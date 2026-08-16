@@ -1,0 +1,13 @@
+body {
+  background-color: pink;
+}
+#heading {
+  background-color: gold;
+  color: rgb(10, 171, 18);
+}
+p {
+  padding: 1%;
+}
+button {
+  padding: 1%;
+}
